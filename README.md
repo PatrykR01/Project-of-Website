@@ -1,5 +1,5 @@
 # Project-of-Website
-This is project of more advance than before website. Website is making by using Bootstrap, SCSS, JavaScript, Slickjs.<br>
+This is project of more advance than before website. Website is making by using Bootstrap, SCSS, JavaScript, Slickjs and AOS.<br>
 <br><br>
 PROJECT OF WEBSITE: <br>
 1. Learned a lot from Bootstrap 5.0 . <br>
